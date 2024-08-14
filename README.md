@@ -1,6 +1,6 @@
 ### Boas Vindas ao meu perfil ☠️
 
-meu nome e arthur bocalete
+meu nome e Arthur Bocalete
 
 - estou estudando programaçao e TI
 - estou me desenvolvendo em linguagem java
@@ -10,4 +10,4 @@ meu nome e arthur bocalete
   arthurbocalete@gmail.com
 
 
-![] (https://tenor.com/pt-BR/view/darth-vader-im-ready-lightsaber-star-wars-gif-15851238)
+![](https://media1.tenor.com/m/LJdkvSLb4n4AAAAC/iodadance.gif)
